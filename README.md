@@ -2,9 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
-## Screenshot
+### Screenshot
 
 ![image](https://user-images.githubusercontent.com/56719045/149805687-989a8cfc-6c62-4344-b881-52669af27a5f.png)
+![image](https://user-images.githubusercontent.com/56719045/149806360-75ab9796-0b44-4ce6-8541-1bd351fa208b.png)
+
 
 ## Development server
 
